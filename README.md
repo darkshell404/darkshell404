@@ -91,31 +91,99 @@ darkshell404@system:~$ grep -r "specialties" ./skills/
 
 ---
 
-## `> cat ./projects_showcase.md`
+## `> ls -la ./github_repositories/`
 
 <div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+</div>
 
-| **🌟 FEATURED PROJECTS** | **🔗 LINKS** |
-|:---:|:---:|
-| **E-commerce Platform** - Villaggio Est | [![Live Demo](https://img.shields.io/badge/Live-%2300ff41.svg?&style=flat-square&logo=firefox&logoColor=black)](https://www.villaggioest.com/) |
-| **Rental Management System** - Sardinia Rental | [![Live Demo](https://img.shields.io/badge/Live-%2300ffff.svg?&style=flat-square&logo=calendar&logoColor=black)](https://sardiniarentalhome.com/) |
-| **Artist Portfolio** - Matthew Lowder Official | [![Live Demo](https://img.shields.io/badge/Live-%23ff8800.svg?&style=flat-square&logo=music&logoColor=white)](https://www.matthewlowderofficial.it/) |
-| **Review Management System** | [![Live Demo](https://img.shields.io/badge/Live-%23ff0040.svg?&style=flat-square&logo=star&logoColor=white)](https://www.sardiniarentalhome-reviews.com/recensioni.php/) |
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkshell404&repo=portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&icon_color=00ff41&text_color=ffffff&title_color=00ff41)](https://github.com/darkshell404/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkshell404&repo=cyber-security-tools&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&icon_color=00ff41&text_color=ffffff&title_color=00ff41)](https://github.com/darkshell404/cyber-security-tools)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkshell404&repo=web-development-projects&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&icon_color=00ff41&text_color=ffffff&title_color=00ff41)](https://github.com/darkshell404/web-development-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkshell404&repo=system-administration&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&icon_color=00ff41&text_color=ffffff&title_color=00ff41)](https://github.com/darkshell404/system-administration)
 
 </div>
 
-**Progetti realizzati:**
-- 🛒 **E-commerce completi** con sistemi di pagamento integrati e dashboard amministrative
-- 🏠 **Gestionali per affitti turistici** con prenotazioni online e calendario dinamico
-- 🎨 **Portfolio professionali** per artisti con gallerie multimediali
-- ⭐ **Sistemi di recensioni** con moderazione automatica e analytics
-- 🖥️ **Applicazioni desktop** custom per gestione aziendale
-- 🔒 **Soluzioni di sicurezza** per PMI e professionisti
+```bash
+darkshell404@system:~$ find ./projects -type f -name "*.live" | head -5
+./projects/e-commerce/villaggio-est.live → https://www.villaggioest.com/
+./projects/rental-mgmt/sardinia-rental.live → https://sardiniarentalhome.com/
+./projects/portfolio/matthew-lowder.live → https://www.matthewlowderofficial.it/
+./projects/reviews/sardinia-reviews.live → https://www.sardiniarentalhome-reviews.com/
+./projects/cyber-tools/security-suite.live → [CLASSIFIED]
+```
+
+**🚀 Tech Stack utilizzati nei progetti:**
+- 🛒 **E-commerce completi** → PHP, MySQL, JavaScript, Payment Gateway Integration
+- 🏠 **Rental Management** → Node.js, Express, MongoDB, Real-time Booking API
+- 🎨 **Portfolio dinamici** → React, CSS3 Animations, Responsive Design
+- ⭐ **Review Systems** → AJAX, JSON APIs, Auto-moderation Algorithms
+- 🔒 **Security Tools** → Python, Bash Scripts, Network Analysis
+- 🖥️ **System Administration** → Docker, Linux Automation, Cloud Infrastructure
 
 <div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Hacking GIF"/>
+  
   <a href="https://www.darkshell404.it/">
-    <img src="https://img.shields.io/badge/View_All_Projects-%2300ff41.svg?&style=for-the-badge&logo=rocket&logoColor=black"/>
+    <img src="https://img.shields.io/badge/🌐_View_All_Projects-%2300ff41.svg?&style=for-the-badge&logoColor=black"/>
   </a>
+</div>
+
+---
+
+## `> cat ./social_connections.sh` 🌐
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="200" alt="Connect GIF"/>
+  
+  <h3>🔗 Connettiti con me</h3>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.darkshell404.it/">
+          <img src="https://img.shields.io/badge/🌐_Website-darkshell404.it-%2300ff41?style=for-the-badge&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:amministratore.darkshell404@gmail.com">
+          <img src="https://img.shields.io/badge/📧_Email-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.tiktok.com/@darkshell404">
+          <img src="https://img.shields.io/badge/🎵_TikTok-@darkshell404-%23000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.instagram.com/cazzato.mattia/">
+          <img src="https://img.shields.io/badge/📸_Instagram-@cazzato.mattia-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+```bash
+darkshell404@system:~$ netstat -tulpn | grep social
+tcp  LISTEN  darkshell404.it:443      [Website Portfolio]
+tcp  LISTEN  gmail.com:587            [Professional Email] 
+tcp  LISTEN  tiktok.com:443           [Tech Content & Tips]
+tcp  LISTEN  instagram.com:443        [Behind the Scenes]
+
+darkshell404@system:~$ echo "Always ready for collaboration! 🤝"
+Always ready for collaboration! 🤝
+```
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Tech GIF"/>
 </div>
 
 ---
