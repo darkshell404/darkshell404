@@ -5,12 +5,13 @@
 <div>
   <table>
     <tr>
-      <td width="35%" align="left">
-        <!-- Avatar più grande nel laterale sinistro -->
-        <img src="https://www.dropbox.com/scl/fi/n6h0awa0v16q2s2gggebu/6782f484-2d68-492c-b391-7b2635a6c8c1.jpg?rlkey=o5s8w2yo9y3qs7podv4ydye9n&st=wcqxkulg&raw=1" width="250" height="250" style="border-radius: 50%; border: 4px solid #00ff41; box-shadow: 0 0 30px #00ff41;" />
+      <td width="35%" valign="top">
+        <!-- Avatar circolare più grande nel laterale sinistro -->
+        <img src="https://www.dropbox.com/scl/fi/n6h0awa0v16q2s2gggebu/6782f484-2d68-492c-b391-7b2635a6c8c1.jpg?rlkey=o5s8w2yo9y3qs7podv4ydye9n&st=wcqxkulg&raw=1" width="280" height="280" style="border-radius: 50%; border: 4px solid #00ff41; box-shadow: 0 0 30px rgba(0,255,65,0.5); object-fit: cover;" />
       </td>
-      <td width="65%" align="left">
+      <td width="65%" valign="top" align="left">
         <!-- Typing SVG a destra -->
+        <br/>
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&vCenter=true&random=false&width=500&lines=Professional+Developer+%7C+Cyber+Security;System+Administrator+%7C+Full-Stack;8%2B+Years+Experience+%7C+Ready+for+challenges;%3E+STATUS%3A+Online+and+Available" alt="Typing SVG" />
       </td>
     </tr>
