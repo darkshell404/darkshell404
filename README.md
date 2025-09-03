@@ -1,17 +1,20 @@
-# `$ whoami`
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=DARKSHELL404&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=%20CYBER%20SECURITY%20%26%20WEB%20DEVELOPMENT%20&descAlignY=55&descSize=15"/>
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=DARKSHELL404&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=%20CYBER%20SECURITY%20%26%20WEB%20DEVELOPMENT%20&descAlignY=55&descSize=15" width="100%"/>
 </div>
 
-<div align="center">
-  
-  <!-- Avatar con effetto matrix -->
-  <img src="https://www.dropbox.com/scl/fi/n6h0awa0v16q2s2gggebu/6782f484-2d68-492c-b391-7b2635a6c8c1.jpg?rlkey=o5s8w2yo9y3qs7podv4ydye9n&st=wcqxkulg&raw=1" width="150" height="150" style="border-radius: 50%; border: 3px solid #00ff41; box-shadow: 0 0 20px #00ff41;" />
-  
-  <!-- Typing SVG -->
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Professional+Developer+%7C+Cyber+Security;System+Administrator+%7C+Full-Stack;8%2B+Years+Experience+%7C+Ready+for+challenges;%3E+STATUS%3A+Online+and+Available" alt="Typing SVG" />
-  
+<div>
+  <table>
+    <tr>
+      <td width="35%" align="left">
+        <!-- Avatar più grande nel laterale sinistro -->
+        <img src="https://www.dropbox.com/scl/fi/n6h0awa0v16q2s2gggebu/6782f484-2d68-492c-b391-7b2635a6c8c1.jpg?rlkey=o5s8w2yo9y3qs7podv4ydye9n&st=wcqxkulg&raw=1" width="250" height="250" style="border-radius: 50%; border: 4px solid #00ff41; box-shadow: 0 0 30px #00ff41;" />
+      </td>
+      <td width="65%" align="left">
+        <!-- Typing SVG a destra -->
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&vCenter=true&random=false&width=500&lines=Professional+Developer+%7C+Cyber+Security;System+Administrator+%7C+Full-Stack;8%2B+Years+Experience+%7C+Ready+for+challenges;%3E+STATUS%3A+Online+and+Available" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
