@@ -243,12 +243,6 @@ Always ready for collaboration! 🤝
 
 ## `> ./snake_contribution.py`
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/darkshell404/darkshell404/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 ## `> netstat -an | grep :contact`
 
 <div align="center">
