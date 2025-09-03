@@ -3,6 +3,13 @@
 </div>
 
 <div align="center">
+
+## `> select language.config` 🌍
+
+**🇮🇹 [ITALIANO](#italiano)** | *EN [ENGLISH](#english)**
+
+---
+
   <h1>Hi, I'm <span style="color: #00ff41;">Mattia</span> — aka <code style="background: #0a0a0a; color: #00ff41; padding: 2px 6px; border-radius: 4px;">Darkshell404</code></h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Cyber+Security+Specialist;Full-Stack+Web+Developer;System+Administrator;8%2B+Years+Experience;%3E+STATUS%3A+Ready+for+new+challenges" alt="Typing SVG" />
   
@@ -27,9 +34,9 @@
 ```bash
 darkshell404@system:~$ cat about_me.json
 {
-  "name": "Mattia Cazzato",
+  "name": "Mattia",
   "alias": "Darkshell404", 
-  "location": "Verbania, Italia",
+  "location": "Piemonte, Italia",
   "experience": "8+ years",
   "specialization": [
     "Cyber Security Specialist",
@@ -98,14 +105,6 @@ darkshell404@system:~$ grep -r "specialties" ./skills/
 </div>
 
 <div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkshell404&repo=portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&icon_color=00ff41&text_color=ffffff&title_color=00ff41)](https://github.com/darkshell404/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkshell404&repo=cyber-security-tools&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&icon_color=00ff41&text_color=ffffff&title_color=00ff41)](https://github.com/darkshell404/cyber-security-tools)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkshell404&repo=web-development-projects&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&icon_color=00ff41&text_color=ffffff&title_color=00ff41)](https://github.com/darkshell404/web-development-projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkshell404&repo=system-administration&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&icon_color=00ff41&text_color=ffffff&title_color=00ff41)](https://github.com/darkshell404/system-administration)
-
-</div>
 
 ```bash
 darkshell404@system:~$ find ./projects -type f -name "*.live" | head -5
