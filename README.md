@@ -2,27 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3&height=300&section=header&text=DARKSHELL404&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=%20CYBER%20SECURITY%20%26%20WEB%20DEVELOPMENT%20&descAlignY=55&descSize=15" width="100%"/>
 </div>
 
-<div>
-  <table>
-    <tr>
-      <td width="35%" valign="top">
-        <img src="https://www.dropbox.com/scl/fi/n6h0awa0v16q2s2gggebu/6782f484-2d68-492c-b391-7b2635a6c8c1.jpg?rlkey=o5s8w2yo9y3qs7podv4ydye9n&st=wcqxkulg&raw=1" width="280" height="280" style="border-radius: 50%; border: 4px solid #00ff41; box-shadow: 0 0 30px rgba(0,255,65,0.5); object-fit: cover;" />
-      </td>
-      <td width="65%" valign="top" align="left">
-        <h1>Hi, I'm <span style="color: #00ff41;">Mattia</span> — aka <code style="background: #0a0a0a; color: #00ff41; padding: 2px 6px; border-radius: 4px;">Darkshell404</code></h1>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&vCenter=true&random=false&width=500&lines=Cyber+Security+Specialist;Full-Stack+Web+Developer;System+Administrator;8%2B+Years+Experience;%3E+STATUS%3A+Ready+for+new+challenges" alt="Typing SVG" />
-        <p>Cyber Security Specialist & Full-Stack Developer con oltre 8 anni di esperienza nell'IT. Specializzato in sicurezza informatica, sviluppo web e amministrazione di sistemi.</p>
-        <div style="margin-top: 1rem;">
-          <a href="mailto:amministratore.darkshell404@gmail.com">
-            <img src="https://img.shields.io/badge/Get_In_Touch-%2300ff41.svg?&style=for-the-badge&logo=gmail&logoColor=black"/>
-          </a>
-          <a href="https://www.darkshell404.it/">
-            <img src="https://img.shields.io/badge/View_Portfolio-%2300ffff.svg?&style=for-the-badge&logo=firefox&logoColor=black"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <h1>Hi, I'm <span style="color: #00ff41;">Mattia</span> — aka <code style="background: #0a0a0a; color: #00ff41; padding: 2px 6px; border-radius: 4px;">Darkshell404</code></h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Cyber+Security+Specialist;Full-Stack+Web+Developer;System+Administrator;8%2B+Years+Experience;%3E+STATUS%3A+Ready+for+new+challenges" alt="Typing SVG" />
+  
+  <p style="max-width: 600px; margin: 1rem auto;">Cyber Security Specialist & Full-Stack Developer con oltre 8 anni di esperienza nell'IT. Specializzato in sicurezza informatica, sviluppo web e amministrazione di sistemi.</p>
+  
+  <div style="margin-top: 1.5rem;">
+    <a href="mailto:amministratore.darkshell404@gmail.com">
+      <img src="https://img.shields.io/badge/Get_In_Touch-%2300ff41.svg?&style=for-the-badge&logo=gmail&logoColor=black"/>
+    </a>
+    <a href="https://www.darkshell404.it/">
+      <img src="https://img.shields.io/badge/View_Portfolio-%2300ffff.svg?&style=for-the-badge&logo=firefox&logoColor=black"/>
+    </a>
+  </div>
 </div>
 
 ---
