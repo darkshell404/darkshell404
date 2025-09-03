@@ -4,10 +4,6 @@
 
 <div align="center">
 
-## `> select language.config` 🌍
-
-**🇮🇹 [ITALIANO](#italiano)** | *EN [ENGLISH](#english)**
-
 ---
 
   <h1>Hi, I'm <span style="color: #00ff41;">Mattia</span> — aka <code style="background: #0a0a0a; color: #00ff41; padding: 2px 6px; border-radius: 4px;">Darkshell404</code></h1>
